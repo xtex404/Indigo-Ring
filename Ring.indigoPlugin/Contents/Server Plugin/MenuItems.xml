@@ -4,8 +4,8 @@
         <Name>Rescan for Devices</Name>
         <CallbackMethod>buildAvailableDeviceList</CallbackMethod>
     </MenuItem>
-	<MenuItem id="sep1" />
-	 <MenuItem id="checkForUpdates">
+    <MenuItem id="sep1" />
+     <MenuItem id="checkForUpdates">
         <Name>Check for Updates</Name>
         <CallbackMethod>checkForUpdates</CallbackMethod>
     </MenuItem>
